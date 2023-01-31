@@ -16,7 +16,7 @@ When you open a pdf file with adobe reader and click on the print button, the po
 ![image](https://user-images.githubusercontent.com/71971762/215797602-2411a95e-70d6-4d1e-957c-4f730383e20a.png)
 ![image](https://user-images.githubusercontent.com/71971762/215797747-8223fba7-63f2-45c2-a46a-25ed62633425.png)
 
-Please note that if you want the message to have different content you will need to change it from the source.cpp file from the vs_repo and then build the solution again.
+Please note that if you want the message to have different content you will need to change it from the source.cpp file from the vs_repos/repos/PrintClickPopUp and then build the solution again.
 After that you will have to paste the new dll into the directory where the python script is located and bundle it together with some library like py2exe, or just contact me and I will gladly assist.
 
 
