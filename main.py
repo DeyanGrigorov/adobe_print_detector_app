@@ -2,6 +2,7 @@ import ctypes
 import os
 import sys
 
+
 while True:
     dll_path = os.path.join(os.path.dirname(os.path.abspath(sys.argv[0])), 'PrintClickPopUp.dll')
     dependency_path_one = os.path.join(os.path.dirname(os.path.abspath(sys.argv[0])), 'vcruntime140d.dll')
